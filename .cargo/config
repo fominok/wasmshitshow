@@ -1,0 +1,2 @@
+[target.wasm32-unknown-unknown]
+linker = "/opt/wasi-sdk/bin/wasm-ld"
